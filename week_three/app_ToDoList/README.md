@@ -7,6 +7,9 @@ Add new tasks
 Mark tasks as completed (click on item)
 Delete all tasks
 
+## Live Demo
+
+
 ## Technologies
 React (class components)
 JavaScript (ES6)
