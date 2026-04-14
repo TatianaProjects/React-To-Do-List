@@ -7,7 +7,8 @@ Add new tasks
 Mark tasks as completed (click on item)
 Delete all tasks
 
-## Live Demo
+### Demo
+[Live Demo on Netlify](https://todolistreacttest.netlify.app/)
 
 
 ## Technologies
